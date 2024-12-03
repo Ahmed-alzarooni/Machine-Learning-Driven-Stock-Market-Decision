@@ -33,4 +33,6 @@ This project investigates the effectiveness of machine learning models in predic
 │   ├── amzn_data.csv                  # Amazon dataset
 │   └── axp_data.csv                   # American Express dataset
 ├── README.md                          # Project overview (this file)  
+├── Portfolio Simulation/
+│    └──Portfolio.ipynb
 └── requirements.txt                   # Dependencies and library requirements  
