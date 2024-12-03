@@ -31,6 +31,8 @@ This project investigates the effectiveness of machine learning models in predic
 │   └── XG_RFmodel_axp.ipynb           # Voting Classifier XGBoost and Random Forest American Express
 ├── datasets/
 │   ├── amzn_data.csv                  # Amazon dataset
+│   ├── data.py                        # code to clean and formats the data 
+│   ├── historical_stock_data.csv      # Stock data from Yahoo Finance 
 │   └── axp_data.csv                   # American Express dataset
 ├── README.md                          # Project overview (this file)  
 ├── Portfolio Simulation/
